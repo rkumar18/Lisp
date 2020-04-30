@@ -1,0 +1,1 @@
+(lambda (number)(* 2 number))50)

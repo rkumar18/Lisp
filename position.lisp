@@ -1,0 +1,1 @@
+(format t "4th item is = ~a " (cadddr '(NOW IS THE TIME FOR LOCK DOWN AND TEST THE SYPTOMS)))
